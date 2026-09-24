@@ -6,6 +6,7 @@ My leetcode updates.
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Khushi0413/Leetcode-update/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/Khushi0413/Leetcode-update/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Khushi0413/Leetcode-update/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/Khushi0413/Leetcode-update/tree/master/1251-average-selling-price) |
