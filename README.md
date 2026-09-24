@@ -20,4 +20,8 @@ My leetcode updates.
 | [1683-invalid-tweets](https://github.com/Khushi0413/Leetcode-update/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Khushi0413/Leetcode-update/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Khushi0413/Leetcode-update/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Khushi0413/Leetcode-update/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
