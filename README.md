@@ -6,5 +6,6 @@ My leetcode updates.
 ## Database
 |  |
 | ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Khushi0413/Leetcode-update/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1527-patients-with-a-condition](https://github.com/Khushi0413/Leetcode-update/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
