@@ -33,4 +33,16 @@ My leetcode updates.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
