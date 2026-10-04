@@ -28,6 +28,7 @@ My leetcode updates.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Khushi0413/Leetcode-update/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khushi0413/Leetcode-update/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -45,4 +46,8 @@ My leetcode updates.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Khushi0413/Leetcode-update/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
