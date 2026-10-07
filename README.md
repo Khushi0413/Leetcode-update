@@ -44,6 +44,7 @@ My leetcode updates.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Khushi0413/Leetcode-update/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -60,4 +61,12 @@ My leetcode updates.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Khushi0413/Leetcode-update/tree/master/0029-divide-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Khushi0413/Leetcode-update/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Khushi0413/Leetcode-update/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
