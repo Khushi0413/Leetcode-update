@@ -46,6 +46,7 @@ My leetcode updates.
 | [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Khushi0413/Leetcode-update/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Khushi0413/Leetcode-update/tree/master/0058-length-of-last-word) |
+| [1768-merge-strings-alternately](https://github.com/Khushi0413/Leetcode-update/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -58,6 +59,7 @@ My leetcode updates.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0027-remove-element) |
+| [1768-merge-strings-alternately](https://github.com/Khushi0413/Leetcode-update/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
