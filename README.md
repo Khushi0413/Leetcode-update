@@ -35,6 +35,7 @@ My leetcode updates.
 | ------- |
 | [0009-palindrome-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Khushi0413/Leetcode-update/tree/master/0029-divide-two-integers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ My leetcode updates.
 | [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Khushi0413/Leetcode-update/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Khushi0413/Leetcode-update/tree/master/0058-length-of-last-word) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Khushi0413/Leetcode-update/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -72,4 +74,12 @@ My leetcode updates.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Khushi0413/Leetcode-update/tree/master/0020-valid-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
