@@ -35,6 +35,7 @@ My leetcode updates.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Khushi0413/Leetcode-update/tree/master/0029-divide-two-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
@@ -45,6 +46,7 @@ My leetcode updates.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Khushi0413/Leetcode-update/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Khushi0413/Leetcode-update/tree/master/0058-length-of-last-word) |
@@ -83,4 +85,8 @@ My leetcode updates.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
