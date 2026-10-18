@@ -42,6 +42,7 @@ My leetcode updates.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Khushi0413/Leetcode-update/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0027-remove-element) |
 ## String
 |  |
@@ -63,6 +64,7 @@ My leetcode updates.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Khushi0413/Leetcode-update/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0027-remove-element) |
 | [1768-merge-strings-alternately](https://github.com/Khushi0413/Leetcode-update/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
