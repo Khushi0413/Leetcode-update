@@ -37,6 +37,7 @@ My leetcode updates.
 | [0009-palindrome-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Khushi0413/Leetcode-update/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Khushi0413/Leetcode-update/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ My leetcode updates.
 | [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khushi0413/Leetcode-update/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Khushi0413/Leetcode-update/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
