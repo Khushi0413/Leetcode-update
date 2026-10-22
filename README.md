@@ -30,6 +30,7 @@ My leetcode updates.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Khushi0413/Leetcode-update/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Khushi0413/Leetcode-update/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khushi0413/Leetcode-update/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
