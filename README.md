@@ -42,6 +42,7 @@ My leetcode updates.
 | [0067-add-binary](https://github.com/Khushi0413/Leetcode-update/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Khushi0413/Leetcode-update/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Khushi0413/Leetcode-update/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
 | ------- |
