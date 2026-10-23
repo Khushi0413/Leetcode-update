@@ -39,6 +39,7 @@ My leetcode updates.
 | [0013-roman-to-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Khushi0413/Leetcode-update/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Khushi0413/Leetcode-update/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Khushi0413/Leetcode-update/tree/master/0067-add-binary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ My leetcode updates.
 | [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Khushi0413/Leetcode-update/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Khushi0413/Leetcode-update/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Khushi0413/Leetcode-update/tree/master/0067-add-binary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Khushi0413/Leetcode-update/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -75,6 +77,7 @@ My leetcode updates.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Khushi0413/Leetcode-update/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Khushi0413/Leetcode-update/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -99,4 +102,8 @@ My leetcode updates.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Khushi0413/Leetcode-update/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Khushi0413/Leetcode-update/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
