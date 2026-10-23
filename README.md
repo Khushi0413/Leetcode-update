@@ -42,6 +42,7 @@ My leetcode updates.
 | [0067-add-binary](https://github.com/Khushi0413/Leetcode-update/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Khushi0413/Leetcode-update/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Khushi0413/Leetcode-update/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Khushi0413/Leetcode-update/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
