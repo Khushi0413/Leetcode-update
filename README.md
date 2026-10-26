@@ -41,6 +41,7 @@ My leetcode updates.
 | [0066-plus-one](https://github.com/Khushi0413/Leetcode-update/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Khushi0413/Leetcode-update/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Khushi0413/Leetcode-update/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Khushi0413/Leetcode-update/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -73,6 +74,7 @@ My leetcode updates.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Khushi0413/Leetcode-update/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +124,12 @@ My leetcode updates.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
