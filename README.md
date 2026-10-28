@@ -55,6 +55,7 @@ My leetcode updates.
 | [0035-search-insert-position](https://github.com/Khushi0413/Leetcode-update/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Khushi0413/Leetcode-update/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Khushi0413/Leetcode-update/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Khushi0413/Leetcode-update/tree/master/0118-pascals-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -128,6 +129,7 @@ My leetcode updates.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Khushi0413/Leetcode-update/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
