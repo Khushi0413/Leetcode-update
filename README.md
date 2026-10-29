@@ -58,6 +58,7 @@ My leetcode updates.
 | [0066-plus-one](https://github.com/Khushi0413/Leetcode-update/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Khushi0413/Leetcode-update/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Khushi0413/Leetcode-update/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -111,6 +112,7 @@ My leetcode updates.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -124,10 +126,12 @@ My leetcode updates.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -142,6 +146,7 @@ My leetcode updates.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Khushi0413/Leetcode-update/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -154,4 +159,8 @@ My leetcode updates.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Khushi0413/Leetcode-update/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
