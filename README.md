@@ -38,6 +38,7 @@ My leetcode updates.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Khushi0413/Leetcode-update/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Khushi0413/Leetcode-update/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Khushi0413/Leetcode-update/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Khushi0413/Leetcode-update/tree/master/0066-plus-one) |
@@ -64,6 +65,7 @@ My leetcode updates.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Khushi0413/Leetcode-update/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Khushi0413/Leetcode-update/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Khushi0413/Leetcode-update/tree/master/0020-valid-parentheses) |
@@ -112,6 +114,7 @@ My leetcode updates.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Khushi0413/Leetcode-update/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
