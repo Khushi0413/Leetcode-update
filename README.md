@@ -43,6 +43,7 @@ My leetcode updates.
 | [0029-divide-two-integers](https://github.com/Khushi0413/Leetcode-update/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Khushi0413/Leetcode-update/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Khushi0413/Leetcode-update/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Khushi0413/Leetcode-update/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Khushi0413/Leetcode-update/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -141,11 +142,13 @@ My leetcode updates.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Khushi0413/Leetcode-update/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Khushi0413/Leetcode-update/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Khushi0413/Leetcode-update/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
