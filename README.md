@@ -63,6 +63,7 @@ My leetcode updates.
 | [0118-pascals-triangle](https://github.com/Khushi0413/Leetcode-update/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi0413/Leetcode-update/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/Khushi0413/Leetcode-update/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -136,6 +137,7 @@ My leetcode updates.
 | ------- |
 | [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi0413/Leetcode-update/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/Khushi0413/Leetcode-update/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -184,4 +186,8 @@ My leetcode updates.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Khushi0413/Leetcode-update/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Khushi0413/Leetcode-update/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
