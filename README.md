@@ -44,6 +44,7 @@ My leetcode updates.
 | [0066-plus-one](https://github.com/Khushi0413/Leetcode-update/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Khushi0413/Leetcode-update/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Khushi0413/Leetcode-update/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Khushi0413/Leetcode-update/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Khushi0413/Leetcode-update/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -63,6 +64,7 @@ My leetcode updates.
 | [0118-pascals-triangle](https://github.com/Khushi0413/Leetcode-update/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi0413/Leetcode-update/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Khushi0413/Leetcode-update/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -98,6 +100,7 @@ My leetcode updates.
 | ------- |
 | [0029-divide-two-integers](https://github.com/Khushi0413/Leetcode-update/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Khushi0413/Leetcode-update/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -121,12 +124,14 @@ My leetcode updates.
 | [0013-roman-to-integer](https://github.com/Khushi0413/Leetcode-update/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi0413/Leetcode-update/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Khushi0413/Leetcode-update/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Khushi0413/Leetcode-update/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +142,7 @@ My leetcode updates.
 | ------- |
 | [0169-majority-element](https://github.com/Khushi0413/Leetcode-update/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi0413/Leetcode-update/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Khushi0413/Leetcode-update/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Khushi0413/Leetcode-update/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi0413/Leetcode-update/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
